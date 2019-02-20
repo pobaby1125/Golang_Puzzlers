@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+//test
+
 var name string
 
 // 方式3。
